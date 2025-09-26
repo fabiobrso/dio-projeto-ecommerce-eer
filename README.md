@@ -1,4 +1,4 @@
-# Modelo EER de E-Commerce  
+# Projeto EER de E-Commerce  
 **Modelo conceitual refinado de banco de dados para um sistema de E-Commerce.**
 
 ---
@@ -45,4 +45,5 @@ Este repositório apresenta o refinamento de um modelo **EER (Enhanced Entity-Re
 ┗ diagrama_e-commerce.mwb **# Arquivo nativo do MySQL Workbench**  
 
 ## 📝 Autor
+
 Desenvolvido por **Fábio Barros de Oliveira** para o desafio DIO.
